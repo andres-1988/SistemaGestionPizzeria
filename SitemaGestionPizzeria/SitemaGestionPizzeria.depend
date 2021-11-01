@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1635199156 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<Menu.h>
+	<rlutil.h>
+
+1635127121 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\menu.h
+
+1635100988 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1635203536 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"Menu.h"
+
