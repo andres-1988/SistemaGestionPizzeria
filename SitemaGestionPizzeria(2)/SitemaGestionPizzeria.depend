@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1636076200 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<Menu.h>
+	<rlutil.h>
+	"Cliente.h"
+	"Proveedor.h"
+	"Producto.h"
+
+1635127121 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\menu.h
+
+1635100988 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1635203536 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"Menu.h"
+
+1636065332 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\fecha.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	"Fecha.h"
+
+1636064654 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\fecha.h
+
+1636073392 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\persona.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"Persona.h"
+
+1636066760 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\persona.h
+
+1636076139 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\proveedor.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+	"Persona.h"
+	"Fecha.h"
+
+1636073693 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\proveedor.h
+	"Persona.h"
+	"Fecha.h"
+
+1636071001 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\cliente.cpp
+	<iostream>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+
+1636070809 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\cliente.h
+	"Persona.h"
+	"Fecha.h"
+
+1636073019 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\src\producto.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"Producto.h"
+	"Fecha.h"
+
+1636072086 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\sitemagestionpizzeria\include\producto.h
+	"Fecha.h"
+
